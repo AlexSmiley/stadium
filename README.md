@@ -135,4 +135,6 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
+Online example: https://stadium-webgl.vercel.app/
+
 See [`webgl/README.md`](webgl/README.md) for browser controls and migration notes. The original C/OpenGL application remains intact.
